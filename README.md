@@ -73,7 +73,7 @@
   
 - [**`Silvia Health (실비아헬스)`**](https://silvia.io/) : 치매 예방과 조기 진단을 목표로 하는 두뇌건강 플랫폼을 시작으로, 디지털 헬스케어 시장에서 맞춤형 인지건강 관리를 선도한다는 목표를 가지고 있는 스타트업. 지난 1년 동안 실비아헬스는 삼성 C-lab Outside 선정, 정주영 창업경진대회 최우수상, 보건복지부 X 건강보험심사평가원 빅데이터 활용 경진대회 최우수상 등 수많은 대회에서 좋은 성적을 거두었다. ***(Last Update: 2021.12.05)***     
   
-- [**`Beyond Honeycomb (비욘드허니컴)`**](https://www.beyondhoneycomb.com/) : 인공지능 기술을 활용해 균잉한 맛으로 셰프의 음식을 재현하는 AI 셰프 솔루션을 개발중인 스타트업. ***(Last Update: 2021.12.05)***      
+- [**`Beyond Honeycomb (비욘드허니컴)`**](https://www.beyondhoneycomb.com/) : 인공지능 기술을 활용해 균일한 맛으로 셰프의 음식을 재현하는 AI 셰프 솔루션을 개발중인 스타트업. ***(Last Update: 2021.12.05)***      
     
 - [**`Soundable Health (사운더블 헬스)`**](https://www.soundablehealth.com/) : 소리 기반의 헬스케어 서비스를 개발하는 스타트업. ***(Last Update: 2021.12.05)***         
   

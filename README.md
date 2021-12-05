@@ -3,8 +3,8 @@
 ## Intro
   
 - 한국에 있는 테크 스타트업들 리스트와 간단한 설명을 기록합니다.
-- '내가 아는 스타트업들이 얼마나 될까?' 라는 간단한 생각에서 프로젝트가 시작되었습니다.
-- 허훈님의 [nlp-startups](https://github.com/Huffon/nlp-startups), 염기웅님의 [Korea-Startups](https://github.com/gyunggyung/Korea-Startups)를 참고하여 작성하였습니다.
+- '내가 아는 스타트업들이 얼마나 될까?' 라는 간단한 생각을 시작으로 기록하게 됐습니다.
+- 허훈님의 [nlp-startups](https://github.com/Huffon/nlp-startups), 염기웅님의 [Korea-Startups](https://github.com/gyunggyung/Korea-Startups) 형식을 참고했습니다.
 - 제가 잘못알고 있거나 새롭게 추가하고 싶은 기업이 있으시다면 [이슈](https://github.com/sooftware/korea-startups/issues)에 남겨주시면 감사하겠습니다.
 - 순서에 따로 의미는 없으며, 생각나는 순서로 작성했습니다.
   

@@ -59,7 +59,7 @@
   
 - [**`NFT Bank (NFT뱅크)`**](https://nftbank.ai/landing) : 최근 핫한 **NFT(Non-Fungible Token)** 금융 및 자산관리 플랫폼 서비스를 운영하고 있다. 세계 최대 엑셀러레이터인 와이컴비네이터 (Y-Combinator) 기업으로 선정되기도 했다. ***(Last Update: 2021.12.05)***    
   
-- [**`DAL Company (디에이엘컴퍼니)`**](http://www.dalchaebi.shop/13) : 맞춤 월경 서비스 [**`달채비(Dalchaebi)`**](http://www.dalchaebi.shop/13)를 메인으로 하는 스타트업. ***(Last Update: 2021.12.05)***    
+- [**`DAL Company (디에이엘컴퍼니)`**](http://www.dalchaebi.shop/13) : 맞춤 월경 서비스 [**달채비(Dalchaebi)**](http://www.dalchaebi.shop/13)를 메인으로 하는 스타트업. ***(Last Update: 2021.12.05)***    
   
 - [**`42 Maru (포티투마루)`**](https://www.42maru.ai/kr/) : **Semantic QA**를 연구하며 글로벌 기계독해 경진대회 **SQuAD**에서 우수한 성적을 거둔 이력이 있다. ***(Last Update: 2021.12.05)***    
   

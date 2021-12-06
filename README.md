@@ -109,6 +109,14 @@
 
 - [**`GAUDIO Lab (가우디오랩)`**](https://gaudiolab.com/about-us/?lang=ko) : 오디오테크 스타트업으로, 다양한 콘텐츠 환경에서 **몰입감 높은 오디오 경험**을 구현하는 기술을 개발한다. 네이버와 긴밀하게 협력하고 있으며 높은 수준의 기술력을 인정받고 있다. 최근 **113억원 규모의 시리즈 B 투자**를 유치했다. ***(Last Update: 2021.12.05)***  
   
+- [**`VUNO (뷰노)`**](https://www.vuno.co/) : **의료분야**에 인공지능 기술을 적용해 X-ray·CT·MRI 등 의료영상 데이터부터 생체신호까지 광범위한 의료데이터를 분석하고 진단을 돕는 의료 AI 솔루션 개발 스타트업. ***(Last Update: 2021.12.07)***  
+  
+- [**`Humelo (휴멜로)`**](http://www.humelo.com/) : 단순한 음성 합성 기술을 넘어 음성의 감정 및 운율(음정, 속도)을 조절 가능하도록 하는 기술을 개발하는 스타트업. ***(Last Update: 2021.12.07)***    
+
+- [**`MindLogic (마인드로직)`**](https://mindlogic.ai/) : 인공지능 가상 연인 서비스 [**가상남녀**](http://ai-boyfriend-girlfriend.mindlogic.ai/) 서비스를 운영중인 스타트업. 21년 상반기에 50억 규모의 시리즈 A 투자를 유치했다. ***(Last Update: 2021.12.07)***  
+
+- [**`Petpeotalk (펫페오톡)`**](https://dogibogi.co.kr/) : 집에 남은 반려동물의 행동을 기록하고 AI 기반 기술로 행동을 분석해주는 반려동물 CCTV 서비스인 [**도기보기**](https://dogibogi.co.kr/)를 운영중이다. ***(Last Update: 2021.12.07)***  
+  
 ## Author
 
 - [Soohwan Kim](https://github.com/sooftware) @sooftware

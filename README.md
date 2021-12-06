@@ -117,6 +117,11 @@
 
 - [**`Petpeotalk (펫페오톡)`**](https://dogibogi.co.kr/) : 집에 남은 반려동물의 행동을 기록하고 AI 기반 기술로 행동을 분석해주는 반려동물 CCTV 서비스인 [**도기보기**](https://dogibogi.co.kr/)를 운영중이다. ***(Last Update: 2021.12.07)***  
   
+- [**`Intellius (인텔리어스)`**](http://www.intellius.ai/) : 자연어처리 기술을 기반으로 의도 분류, 대화, 감성 분석 등의 기술을 서비스로 제공하는 스타트업. ***(Last Update: 2021.12.07)***    
+- [**`Sendbird (센드버드)`**](https://sendbird.com/ko) : 채팅 API를 판매하는 SaaS(Software-as-a-Service) B2B 스타트업이다. 21년 상반기에 1억달러 투자 유치를 하며 유니콘이 되었다. ***(Last Update: 2021.12.07)***   
+
+- [**`Atommerce (아토머스)`**](http://www.atommerce.com/) : 비대면 전문 정신건강 서비스 [**마인드카페**](http://www.atommerce.com/)를 운영하는 스타트업. ***(Last Update: 2021.12.07)***   
+  
 ## Author
 
 - [Soohwan Kim](https://github.com/sooftware) @sooftware

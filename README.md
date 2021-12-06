@@ -123,7 +123,7 @@
 
 - [**`Atommerce (아토머스)`**](http://www.atommerce.com/) : 비대면 전문 정신건강 서비스 [**마인드카페**](http://www.atommerce.com/)를 운영하는 스타트업. ***(Last Update: 2021.12.07)***   
   
-- [**`VUERON (뷰런)`**](http://vueron.org/) : **LiDAR 센서**를 **자율주행** 산업에 적용하는 기술을 개발하고 있는 스타트업.
+- [**`VUERON (뷰런)`**](http://vueron.org/) : **LiDAR 센서**를 **자율주행** 산업에 적용하는 기술을 개발하고 있는 스타트업. ***(Last Update: 2021.12.07)***   
   
 ## Author
 

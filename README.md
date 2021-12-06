@@ -35,6 +35,10 @@
   
 - [**`Return Zero (리턴제로)`**](https://www.rtzr.ai/) : 카카오 출신 엔지니어들이 설립한 스타트업이며, 통화 내용을 텍스트로 옮겨주는 서비스인 [**VITO**](https://www.vitoapp.io/)를 운영중이다. 핵심 기술은 음성 인식으로, 최근에 코리아 AI 스타트업 TOP 100에 선정될 정도로 유망성을 인정받았다. ***(Last Update: 2021.12.05)***     
   
+- [**`Sendbird (센드버드)`**](https://sendbird.com/ko) : 채팅 API를 판매하는 SaaS(Software-as-a-Service) B2B 스타트업이다. 21년 상반기에 1억달러 투자 유치를 하며 유니콘이 되었다. ***(Last Update: 2021.12.07)***   
+
+- [**`Superb AI (슈퍼브 AI)`**](https://www.superb-ai.com/) : SKT 연구원 출신들이 설립한 스타트업. 머신러닝 데이터 플랫폼인 **스위트(Suite)** 서비스를 운영중이다. ***(Last Update: 2021.12.07)*** 
+  
 - [**`Riiid (뤼이드)`**](https://riiid.com/ko/main) : 맞춤형 토익 공부 어플리케이션인 [**뤼이트 튜터 (구 산타토익)**](https://play.google.com/store/apps/details?id=co.riiid.vida&hl=ko&gl=US)를 운영중이다. **누적 투자 2,800억**으로 대형 스타트업이다. ***(Last Update: 2021.12.05)*** 
   
 - [**`SELECTSTAR (셀렉트스타)`**](https://selectstar.ai/?gclid=Cj0KCQiA47GNBhDrARIsAKfZ2rA_N6dFN-Yih-DWF61TlO-IwlMgIHWwyHV_xSRKfr_JG4HMw0WuVyQaAiXSEALw_wcB) : 크라우드소싱으로 AI 학습에 필요한 데이터를 수집 및 가공해주는 서비스를 제공해주는 스타트업. 전 세계적으로 데이터 수집∙가공 분야의 기업들이 높은 가치를 인정받는 추세를 고려하면 앞으로의 성장가능성이 더욱 기대되는 스타트업이다. ***(Last Update: 2021.12.05)*** 
@@ -72,7 +76,7 @@
   
 - [**`Common Computer (커먼컴퓨터)`**](https://comcom.ai/) : 구글, 네이버 출신의 엔지니어들이 설립한 스타트업. 주요 서비스로는 블록체인 기반의 인공지능 관련 대규모 연산이 가능한 블록체인 [**AI Network**](https://ainetwork.ai/)와 OpenResource 플랫폼 [**아이나이즈(Ainize)**](https://ainize.ai/)가 있다. ***(Last Update: 2021.12.05)***    
   
-- [**`Silvia Health (실비아헬스)`**](https://silvia.io/) : 치매 예방과 조기 진단을 목표로 하는 두뇌건강 플랫폼을 시작으로, 디지털 헬스케어 시장에서 맞춤형 인지건강 관리를 선도한다는 목표를 가지고 있는 스타트업. 삼성 C-lab Outside 선정, 정주영 창업경진대회 최우수상, 보건복지부 X 건강보험심사평가원 빅데이터 활용 경진대회 최우수상 등 여러 대회에서 좋은 성적을 거두었다. ***(Last Update: 2021.12.05)***     
+- [**`Silvia Health (실비아헬스)`**](https://silvia.io/) : 치매 예방과 조기 진단을 목표로 하는 두뇌건강 플랫폼을 시작으로, 디지털 헬스케어 시장에서 맞춤형 인지건강 관리를 선도한다는 목표를 가지고 있는 스타트업. 삼성 C-lab Outside 선정, 정주영 창업경진대회 최우수상, 보건복지부 X 건강보험심사평가원 빅데이터 활용 경진대회 최우수상 등 여러 대회에서 좋은 성적을 거두었다. ***(Last Update: 2021.12.05)***  
   
 - [**`Beyond Honeycomb (비욘드허니컴)`**](https://www.beyondhoneycomb.com/) : 인공지능 기술을 활용해 균일한 맛으로 셰프의 음식을 재현하는 AI 셰프 솔루션을 개발중인 스타트업. ***(Last Update: 2021.12.05)***      
     
@@ -118,12 +122,11 @@
 
 - [**`Petpeotalk (펫페오톡)`**](https://dogibogi.co.kr/) : 집에 남은 반려동물의 행동을 기록하고 AI 기반 기술로 행동을 분석해주는 반려동물 CCTV 서비스인 [**도기보기**](https://dogibogi.co.kr/)를 운영중이다. ***(Last Update: 2021.12.07)***  
   
-- [**`Intellius (인텔리어스)`**](http://www.intellius.ai/) : 자연어처리 기술을 기반으로 의도 분류, 대화, 감성 분석 등의 기술을 서비스로 제공하는 스타트업. ***(Last Update: 2021.12.07)***    
-- [**`Sendbird (센드버드)`**](https://sendbird.com/ko) : 채팅 API를 판매하는 SaaS(Software-as-a-Service) B2B 스타트업이다. 21년 상반기에 1억달러 투자 유치를 하며 유니콘이 되었다. ***(Last Update: 2021.12.07)***   
+- [**`Intellius (인텔리어스)`**](http://www.intellius.ai/) : 자연어처리 기술을 기반으로 의도 분류, 대화, 감성 분석 등의 기술을 서비스로 제공하는 스타트업. ***(Last Update: 2021.12.07)***   
 
 - [**`Atommerce (아토머스)`**](http://www.atommerce.com/) : 비대면 전문 정신건강 서비스 [**마인드카페**](http://www.atommerce.com/)를 운영하는 스타트업. ***(Last Update: 2021.12.07)***   
   
-- [**`VUERON (뷰런)`**](http://vueron.org/) : **LiDAR 센서**를 **자율주행** 산업에 적용하는 기술을 개발하고 있는 스타트업. ***(Last Update: 2021.12.07)***   
+- [**`VUERON (뷰런)`**](http://vueron.org/) : **LiDAR 센서**를 **자율주행** 산업에 적용하는 기술을 개발하고 있는 스타트업. ***(Last Update: 2021.12.07)***     
   
 ## Author
 

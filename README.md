@@ -128,6 +128,10 @@
   
 - [**`VUERON (뷰런)`**](http://vueron.org/) : **LiDAR 센서**를 **자율주행** 산업에 적용하는 기술을 개발하고 있는 스타트업. ***(Last Update: 2021.12.07)***     
   
+- [**`elice (엘리스)`**](https://elice.io/home) : AI 기술 기반으로 학생들의 행동 패턴을 파악하는 등 코딩 교육 플랫폼에 AI 기술을 적용하고 있는 스타트업. 최근에는 대기업쪽 코딩 교육에 많이 사용되고 있다. ***(Last Update: 2021.12.08)***
+
+- [**`Wellxecon (웰시콘)`**](https://wellxecon.com/) : 서울대 경제학부 홍석철 교수님이 설립한 스타트업으로, 금융과 건강이라는 두 도메인의 데이터를 활용해서 건강 분석에 금융 데이터를, 금융 분석에 건강 데이터를 활용하는 서비스를 제공하고 있다. 현재는 보험사 등과 협업하고 있다. ***(Last Update: 2021.12.08)***
+  
 ## Author
 
 - [Soohwan Kim](https://github.com/sooftware) @sooftware

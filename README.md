@@ -120,7 +120,7 @@
 
 - [**`MindLogic (마인드로직)`**](https://mindlogic.ai/) : 인공지능 가상 연인 서비스 [**가상남녀**](http://ai-boyfriend-girlfriend.mindlogic.ai/) 서비스를 운영중인 스타트업. 21년 상반기에 50억 규모의 시리즈 A 투자를 유치했다. ***(Last Update: 2021.12.07)***  
 
-- [**`Petpeotalk (펫페오톡)`**](https://dogibogi.co.kr/) : 집에 남은 반려동물의 행동을 기록하고 AI 기반 기술로 행동을 분석해주는 반려동물 CCTV 서비스인 [**도기보기**](https://dogibogi.co.kr/)를 운영중이다. ***(Last Update: 2021.12.07)***  
+- [**`Petpeotalk (펫페오톡)`**](https://www.notion.so/608470c23d124915806d04378cc012d1) : 집에 남은 반려동물의 행동을 기록하고 AI 기반 기술로 행동을 분석해주는 반려동물 CCTV 서비스인 [**도기보기**](https://dogibogi.co.kr/)를 운영중이다. ***(Last Update: 2021.12.08)***  
   
 - [**`Intellius (인텔리어스)`**](http://www.intellius.ai/) : 자연어처리 기술을 기반으로 의도 분류, 대화, 감성 분석 등의 기술을 서비스로 제공하는 스타트업. ***(Last Update: 2021.12.07)***   
 

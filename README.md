@@ -68,7 +68,7 @@
   
 - [**`42 Maru (포티투마루)`**](https://www.42maru.ai/kr/) : **Semantic QA**를 연구하며 글로벌 기계독해 경진대회 **SQuAD**에서 우수한 성적을 거둔 이력이 있다. ***(Last Update: 2021.12.05)***    
   
-- [**`Lion Rocket (라이언로켓)`**](https://lionrocket.ai/) : **영상/음성 합성** 기술을 주력으로 하는 스타트업. 은행들과 가상 인간 제작 프로젝트 협업 등 다양한 기업과 협업을 하고 있다. ***(Last Update: 2021.12.07)***      
+- [**`Lion Rocket (라이언로켓)`**](https://lionrocket.ai/) : **영상/음성 합성** 기술을 주력으로 하는 스타트업. 은행들과 가상 인간 제작 프로젝트 협업 등 다양한 기업과 협업을 하고 있다. 최근에 65억 규모의 시리즈 A를 받았다. ***(Last Update: 2021.12.16)***      
   
 - [**`Pulse9 (펄스나인)`**](http://www.pulse9.net/) : 가상 아이돌 [**이터니티(ETERNITY)**](https://www.youtube.com/channel/UCSnQSjVVHs5bHKIpTJ7vqoA)를 만드는 스타트업. 21년 12월 기준 가장 많이본 영상은 200만 뷰를 기록했다. ***(Last Update: 2021.12.05)***    
   

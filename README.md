@@ -11,7 +11,7 @@
   
 ## Startups
   
-- [**`TUNiB (튜닙)`**](http://www.tunib.ai/) : 유명 깃허브 스타이자 자연어처리 리서쳐이신 **박규병**님을 필두로 **카카오브레인** 자연어처리 팀 출신들이 설립한 자연어처리 테크 스타트업. **글로벌 페르소나 챗봇 서비스**를 개발하고 있으며 2021 AI 온라인 경진대회 1위 등 국내 컴피티션에서의 좋은 성적들과 [**OSLO**](https://github.com/tunib-ai/oslo), [**Parallelformers**](https://github.com/tunib-ai/parallelformers), [**TUNiB-Electra**](https://github.com/tunib-ai/tunib-electra) 등의 오픈소스 기여 등으로 기술력은 인정받고 있으며, [DKTC](https://github.com/tunib-ai/DKTC), [KMWP](https://github.com/tunib-ai/KMWP) 데이터셋 공개와 같은 활동으로 한국어 자연어처리 발전에 기여하고 있다. 특히 최근에는 **Large-Scale 언어 모델** 개발에 힘쓰고 있다. 21년 하반기에 **30억 규모의 시드 투자**를 마무리했다. ***(Last Update: 2022.1.12)***  
+- [**`TUNiB (튜닙)`**](http://www.tunib.ai/) : 유명 깃허브 스타이자 자연어처리 리서쳐이신 **박규병**님을 필두로 **카카오브레인** 자연어처리 팀 출신들이 설립한 자연어처리 테크 스타트업. **글로벌 페르소나 챗봇 서비스**를 개발하고 있으며 2021 AI 온라인 경진대회 1위 등 국내 컴피티션에서의 좋은 성적들과 [**OSLO**](https://github.com/tunib-ai/oslo), [**Parallelformers**](https://github.com/tunib-ai/parallelformers), [**TUNiB-Electra**](https://github.com/tunib-ai/tunib-electra) 등의 오픈소스 기여 등으로 기술력은 인정받고 있으며, [**DKTC**](https://github.com/tunib-ai/DKTC), [**KMWP**](https://github.com/tunib-ai/KMWP) 데이터셋 공개와 같은 활동으로 한국어 자연어처리 발전에 기여하고 있다. 특히 최근에는 **Large-Scale 언어 모델** 개발에 힘쓰고 있으며 [**BLOONY**](https://bloony.ai/)라는 영어 챗봇 클로즈 베타로 런칭했다. 21년 하반기에 **30억 규모의 시드 투자**를 마무리했다. ***(Last Update: 2022.02.23)***  
    
 - [**`Upstage (업스테이지)`**](https://www.upstage.ai/) : AI 분야의 세계적인 석학이신 홍콩과기대 **김성훈** 교수님(전 **네이버 클로바** 헤드)을 필두로 네이버, 카카오, 엔비디아 핵심 인력들이 나와 만든 인공지능 스타트업. 김성훈 교수님 외에도 전 클로바 OCR팀 리더 **이활석** 박사님, 파파고 AI 모델 리더이자 Github 에 있는 한국어 NLP 오픈소스 중 최다 추천을 받은 Konlpy 를 개발한 **Lucy Park**님, 캐글 세계 랭킹 6위 김상훈님 등 AI 업계에서 유명하신 분들이 다수 포진되어 있다. 설립 1년만에 **300억 규모의 시리즈 A**를 받으며 이례적인 속도로 성장하고 있다. 매출뿐 아니라 [**KLUE**](https://github.com/KLUE-benchmark/KLUE) 등의 연구적 성과, Kaggle과 같은 세계적인 대회에서의 1위 등 여러 면에서 뛰어난 성과를 보이고 있다. 현재 AI 기술을 쉽게 도입할 수 있게 도와주는 AI Pack 을 개발해 기업이 고유의 핵심 비즈니스에 집중할 수 있도록 도와주고 있다. ***(Last Update: 2021.12.07)***. 
   
@@ -23,7 +23,7 @@
   
 - [**`Scatter Lab (스캐터랩)`**](https://scatterlab.co.kr/) : 2021년 초 한국을 강타한 일상대화 챗봇 [**이루다**](https://luda.ai/)를 만든 스타트업. 이루다 서비스 외에도 [**연애의 과학**](https://scienceoflove.co.kr/)과 같이 성공한 서비스가 있다. 높은 수준의 자연어처리 기술력을 보유하고 있으며 국내 어느 기업들보다도 **많은 대화 데이터**를 보유하고 있다. 이전에 있었던 여러 문제점을 개선해서 최근에 다시 이루다 서비스를 시작할 예정이라고 한다. ***(Last Update: 2021.12.05)***   
   
-- [**`Neosapience (네오사피엔스)`**](https://neosapience.com/) : 국내에서 대표적인 음성 합성 서비스인 [**타입캐스트(Typecast)**](https://neosapience.com/)를 운영하고 있다. 높은 수준의 음성 합성 기술력을 보유하고 있으며 관련해서 연구성과도 지속적으로 내고 있다. 최근에는 단순한 음성합성을 넘어서 랩을 하는 음성 합성 기술까지 선보이고 있다. ***(Last Update: 2021.12.05)***  
+- [**`Neosapience (네오사피엔스)`**](https://neosapience.com/) : 국내에서 대표적인 음성 합성 서비스인 [**타입캐스트(Typecast)**](https://neosapience.com/)를 운영하고 있다. 높은 수준의 음성 합성 기술력을 보유하고 있으며 관련해서 연구성과도 지속적으로 내고 있다. 최근에는 단순한 음성합성을 넘어서 랩을 하는 음성 합성 기술까지 선보이고 있다. 최근에 250억 규모의 투자를 유치했다. ***(Last Update: 2021.02.23)***  
 
 - [**`Voyager X (보이저엑스)`**](https://www.voyagerx.com/) : 세이클럽(네오위즈), B612(네이버) 등을 성공시킨 **남세동**님이 AI 서비스 제작을 목표로 설립한 스타트업이다. 영상편집 서비스 [**Vrew**](https://vrew.voyagerx.com/ko/), 모바일 스캐너 [**vFlat**](https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=ko&gl=US) 등 다양한 분야에 AI 기술을 접목시키는 서비스를 개발하고 있다. 21년 상반기에 **300억원 규모의 시리즈 A 투자**를 유치했다. ***(Last Update: 2021.12.05)***  
   

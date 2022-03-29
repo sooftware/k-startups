@@ -132,7 +132,7 @@
 
 - [**`Wellxecon (웰시콘)`**](https://wellxecon.com/) : 서울대 경제학부 홍석철 교수님이 설립한 스타트업으로, 금융과 건강이라는 두 도메인의 데이터를 활용해서 건강 분석에 금융 데이터를, 금융 분석에 건강 데이터를 활용하는 서비스를 제공하고 있다. 현재는 보험사 등과 협업하고 있다. ***(Last Update: 2021.12.08)***
   
-- [**`Codeit (코드잇)`**](https://www.codeit.kr/?utm_source=google_paid&utm_medium=sa_pc&utm_campaign=sa&utm_term=%EC%BD%94%EB%93%9C%EC%9E%87&utm_content=brand&gclid=CjwKCAjwuYWSBhByEiwAKd_n_tPspbg7ZA7ckLAPlxH-z5dR9e_Dg7Keh5Ls5KoGV6DO8Pqms8J0gxoCdy8QAvD_BwE) : 비전공자와 개발자 준비생을 주요 타겟으로 하는 온라인 코딩 교육 서비스. 개별 강의 판매가 아닌 구독형 멤버십이다. 모든 강의를 내부에서 직접 제작하여 퀄리티 컨트롤을 하고 있으며, 별도 설치 없이 브라우저 내 코딩 실습이 가능한 플랫폼을 제공한다. 누적 140억 원의 투자를 유치했다.
+- [**`Codeit (코드잇)`**](https://www.codeit.kr/?utm_source=google_paid&utm_medium=sa_pc&utm_campaign=sa&utm_term=%EC%BD%94%EB%93%9C%EC%9E%87&utm_content=brand&gclid=CjwKCAjwuYWSBhByEiwAKd_n_tPspbg7ZA7ckLAPlxH-z5dR9e_Dg7Keh5Ls5KoGV6DO8Pqms8J0gxoCdy8QAvD_BwE) : 비전공자와 개발자 준비생을 주요 타겟으로 하는 온라인 코딩 교육 서비스. 개별 강의 판매가 아닌 구독형 멤버십이다. 모든 강의를 내부에서 직접 제작하여 퀄리티 컨트롤을 하고 있으며, 별도 설치 없이 브라우저 내 코딩 실습이 가능한 플랫폼을 제공한다. 누적 140억 원의 투자를 유치했다. ***(Last Update: 2022.03.29)***
   
 ## Author
 

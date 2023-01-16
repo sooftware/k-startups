@@ -11,7 +11,7 @@
   
 ## Startups
   
-- [**`TUNiB (튜닙)`**](http://www.tunib.ai/) : 유명 깃허브 스타이자 자연어처리 리서쳐이신 **박규병**님을 필두로 **카카오브레인** 자연어처리 팀 출신들이 설립한 자연어처리 테크 스타트업. **글로벌 페르소나 챗봇 서비스**를 개발하고 있으며 2021-2022 AI 온라인 경진대회 1위 등 국내 컴피티션에서의 좋은 성적들과 [**OSLO**](https://github.com/tunib-ai/oslo), [**Parallelformers**](https://github.com/tunib-ai/parallelformers), [**TUNiB-Electra**](https://github.com/tunib-ai/tunib-electra) 등의 오픈소스 기여 등으로 기술력을 인정받고 있으며, [**DKTC**](https://github.com/tunib-ai/DKTC), [**KMWP**](https://github.com/tunib-ai/KMWP) 데이터셋 공개와 같은 활동으로 한국어 자연어처리 발전에 기여하고 있다. 21년 하반기에 **30억 규모의 시드 투자**를 마무리했다. ***(Last Update: 2022.06.26)***  
+- [**`TUNiB (튜닙)`**](http://www.tunib.ai/) : 유명 깃허브 스타이자 자연어처리 리서쳐이신 **박규병**님을 필두로 **카카오브레인** 자연어처리 팀 출신들이 설립한 자연어처리 테크 스타트업. **글로벌 페르소나 챗봇 서비스**를 개발하고 있으며 2021-2022 AI 온라인 경진대회 1위 등 국내 컴피티션에서의 좋은 성적들과 [**OSLO**](https://github.com/tunib-ai/oslo), [**Parallelformers**](https://github.com/tunib-ai/parallelformers), [**TUNiB-Electra**](https://github.com/tunib-ai/tunib-electra) 등의 오픈소스 기여 등으로 기술력을 인정받고 있으며, 여러  한국어 자연어처리 발전에 기여하고 있다. 21년 하반기에 **30억 규모의 시드 투자**를 마무리했다. ***(Last Update: 2022.06.26)***  
    
 - [**`Upstage (업스테이지)`**](https://www.upstage.ai/) : AI 분야의 세계적인 석학이신 홍콩과기대 **김성훈** 교수님(전 **네이버 클로바** 헤드)을 필두로 네이버, 카카오, 엔비디아 핵심 인력들이 나와 만든 인공지능 스타트업. 김성훈 교수님 외에도 전 클로바 OCR팀 리더 **이활석** 박사님, 파파고 AI 모델 리더이자 Github 에 있는 한국어 NLP 오픈소스 중 최다 추천을 받은 Konlpy 를 개발한 **Lucy Park**님, 캐글 세계 랭킹 6위 김상훈님 등 AI 업계에서 유명하신 분들이 다수 포진되어 있다. 설립 1년만에 **300억 규모의 시리즈 A**를 받으며 이례적인 속도로 성장하고 있다. 매출뿐 아니라 [**KLUE**](https://github.com/KLUE-benchmark/KLUE) 등의 연구적 성과, Kaggle과 같은 세계적인 대회에서의 1위 등 여러 면에서 뛰어난 성과를 보이고 있다. 현재 AI 기술을 쉽게 도입할 수 있게 도와주는 AI Pack 을 개발해 기업이 고유의 핵심 비즈니스에 집중할 수 있도록 도와주고 있다. ***(Last Update: 2021.12.07)***. 
   
